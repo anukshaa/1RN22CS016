@@ -1,5 +1,3 @@
-# 1RN22CS016
-
 # Stock Price Aggregator
 
 This project is a React-based web application for aggregating stock prices and providing real-time analytical insights. It features a Stock Page for detailed stock information and a Correlation Heatmap for visualizing stock correlations.
